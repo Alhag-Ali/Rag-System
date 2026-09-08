@@ -1,2 +1,2 @@
-# Rag-System
-Rag system for production (in progress)
+# RAG-App
+A complete RAG system ready for production (in progress)
